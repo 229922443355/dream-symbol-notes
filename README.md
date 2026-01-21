@@ -94,3 +94,6 @@ PC（Windows）で動作する、スタンドアロンの夢整理・解釈ア�
 - `F11` シンボルプレビュー全画面切替
 - `Ctrl+L` カレンダー表示切替
 
+## スクリーンショット
+<img width="1278" height="955" alt="image" src="https://github.com/user-attachments/assets/3c676c70-b01a-4165-8580-b16c9e85ae7a" />
+
